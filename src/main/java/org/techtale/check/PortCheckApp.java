@@ -9,5 +9,5 @@ public class PortCheckApp {
 	public static void main(String[] args) {
 		SpringApplication.run(PortCheckApp.class, args);
 	}
-
+	
 }
